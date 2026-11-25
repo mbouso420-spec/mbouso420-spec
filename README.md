@@ -6,5 +6,5 @@
 - ⚙️ **Sistemas y bases:** C, C++, SQL, redes TCP/IP, Linux, testing automatizado (`node:test`, Postman)
 - 🚀 **Proyectos destacados:**
   - **[Studio IDE](https://github.com/mbouso420-spec/ide-ipad)** — Entorno de desarrollo web (PWA) 100% offline-first para iPadOS y escritorio ([Demo en vivo](https://mbouso420-spec.github.io/ide-ipad/))
-  - **Mueblería Hermanos Jota** — E-commerce Full Stack (React, Node.js, Express, MongoDB Atlas, JWT)
+  - **[Mueblería Hermanos Jota](https://github.com/geroo03/hermanosJ-ITBA)** — E-commerce Full Stack (React, Node.js, Express, MongoDB Atlas, JWT) ([Demo en vivo](https://hermanos-j-itba.vercel.app/))
 - 📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/mateobouso/) · `mbouso420@gmail.com`
